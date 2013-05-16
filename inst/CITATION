@@ -1,0 +1,15 @@
+bibentry("Manual",
+   title = "GRNN: General regression neural network for the statistical software R",
+   author = person("P.-O. Chasset"),
+   organization = "Independant scientist",
+   address      = "Nancy, France",
+   year   = 2013,
+   note   = "Software",
+   url    = "http://flow.chasset.net/r-grnn/",
+
+   mheader = "To cite the library GRNN in publications use:",
+
+   mfooter = 
+     paste("We have invested a lot of time and effort in creating GRNN,",
+      "please cite it when using it for data analysis.", sep = " ")
+)
