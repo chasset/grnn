@@ -3,7 +3,7 @@ Title: General regression neural network
 Description: The program GRNN implements the algorithm proposed by Specht
     (1991).
 URL: http://flow.chasset.net/r-grnn/
-Version: 0.1.0
+Version: 0.2.0
 Author: Pierre-Olivier Chasset
 Maintainer: Pierre-Olivier Chasset <pierre-olivier@chasset.net>
 License: AGPL
